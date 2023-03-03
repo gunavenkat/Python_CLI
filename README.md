@@ -6,15 +6,15 @@
 
 - [Commands and usage](#commands-and-usage)
 - [Configuration](#configuration)
-  - [Settings](#settings)
-  - [Output](#output)
+    - [Settings](#settings)
+    - [Output](#output)
 - [Output file](#output-file)
 - [Examples](#examples)
-  - [General command format](#general-command-format)
-  - [For typical use](#for-typical-use)
-  - [For specific Columns](#for-specific-columns)
-  - [For specific operations](#for-specific-operations)
-  - [For output destination path](#for-output-destination-path)
+    - [General command format](#general-command-format)
+    - [For typical use](#for-typical-use)
+    - [For specific Columns](#for-specific-columns)
+    - [For specific operations](#for-specific-operations)
+    - [For output destination path](#for-output-destination-path)
 - [Modules used](#modules-used)
 - [References](#references)
 
@@ -196,12 +196,12 @@ Args:
 
 ## References
 
-- [Final app(exe file)](https://bitbucket.org/venkatagunasekhar/python_cli/src/master/Final_Deliverables/)
+- [Final app(exe file)](/Final_Deliverables/)
 
-- [Documentation](https://bitbucket.org/venkatagunasekhar/python_cli/src/master/docs/)
+- [Documentation](/docs/)
 
-- [Source Code](https://bitbucket.org/venkatagunasekhar/python_cli/src/master/Src/)
+- [Source Code](/Src/)
 
-- [User manual](https://bitbucket.org/venkatagunasekhar/python_cli/src/master/README.md)
+- [User manual](/README.md)
 
 ---
