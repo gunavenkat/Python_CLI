@@ -19,16 +19,16 @@ Hence this is the working flow execution of the given application.
 
 ## main module
 
-![main](https://bitbucket.org/venkatagunasekhar/python_cli/raw/1a1d4e9a7e1ce541b02f342dbcb8c0c8d8dae678/docs/images/Python%20CLI_page-0001.jpg)
+![main](/docs/images/Python%20CLI_page-0001.jpg)
 
 ## execution_1 module
 
-![execution_1](https://bitbucket.org/venkatagunasekhar/python_cli/raw/1a1d4e9a7e1ce541b02f342dbcb8c0c8d8dae678/docs/images/Python%20CLI_page-0002.jpg)
+![execution_1](/docs/images/Python%20CLI_page-0002.jpg)
 
 ## execution_2 module
 
-![execution_2](https://bitbucket.org/venkatagunasekhar/python_cli/raw/1a1d4e9a7e1ce541b02f342dbcb8c0c8d8dae678/docs/images/Python%20CLI_page-0003.jpg)
+![execution_2](/docs/images/Python%20CLI_page-0003.jpg)
 
 ## file_save module
 
-![file_save](https://bitbucket.org/venkatagunasekhar/python_cli/raw/1a1d4e9a7e1ce541b02f342dbcb8c0c8d8dae678/docs/images/Python%20CLI_page-0004.jpg)
+![file_save](/docs/images/Python%20CLI_page-0004.jpg)
